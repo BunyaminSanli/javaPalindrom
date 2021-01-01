@@ -1,0 +1,2 @@
+# javaPalindrom
+palindrom sayi tespiti
